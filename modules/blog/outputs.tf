@@ -1,3 +1,3 @@
-ouput "environment_url" {
+output "environment_url" {
     module.blog_alb.dns_name
 }
